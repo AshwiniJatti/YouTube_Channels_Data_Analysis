@@ -14,4 +14,9 @@ print(len(data_cleaned))
 
 print(data.columns)
 
+print(len(data['country'].unique()))
+
+print("Big ","Houses")
+print(16 / 3)
+
 
